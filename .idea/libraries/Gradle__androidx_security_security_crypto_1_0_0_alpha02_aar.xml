@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.security:security-crypto:1.0.0-alpha02@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8959818fb5928842c999e957b9e53a1c/transformed/security-crypto-1.0.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8959818fb5928842c999e957b9e53a1c/transformed/security-crypto-1.0.0-alpha02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.security/security-crypto/1.0.0-alpha02/a55e57331ad2d891105e08407a3ad55dcce0aa13/security-crypto-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
